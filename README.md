@@ -1,6 +1,6 @@
 # Glide-Game-Controller
 
-
+## Gesture Recognition based Multifunction Game Controller
 
 # Results 
 
